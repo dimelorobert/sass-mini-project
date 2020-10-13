@@ -1,0 +1,25 @@
+{
+    "name": "sass-mini-project",
+    "version": "1.0.0",
+    "description": "Mini proyecto para poner en practica el preprocesador de css : SASS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dimelorobert/sass-mini-project.git"
+    },
+    "keywords": [
+        "Sass", "NodeJs"
+    ],
+    "author": "Robert Hernandez <airbusjayrobert@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dimelorobert/sass-mini-project/issues"
+    },
+    "homepage": "https://github.com/dimelorobert/sass-mini-project#readme",
+    "dependencies": {
+        "sass": "^1.27.0"
+    }
+}
